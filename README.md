@@ -2,7 +2,7 @@
 
 A responsive web application for managing student records with features to add, edit, and delete student information.
 
-![Student Registration System](https://himanshuacoder.github.io/Student-Registration-System/)
+(https://himanshuacoder.github.io/Student-Registration-System/)
 
 ## Features
 
